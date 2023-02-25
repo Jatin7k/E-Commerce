@@ -1,0 +1,47 @@
+
+.subpostcontainer{
+    width: 93%;
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 20px;
+    border-radius: 10px;
+}
+.postImg{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-top: 7px;
+}
+.postImages{
+    width: 460px;
+    height: 450px;
+    object-fit: contain;
+    margin-left: 80px;
+    border-radius: 10px;
+}
+.iconforpost{
+    width: 20px;
+    
+}
+.moreoption{
+    width: 30px;
+    margin-left: 550px;
+}
+.comment{
+    width: 20pc;
+    margin-left: 10px;
+    border: none;
+    height: 8vh;
+}
+.addCommentbtn{
+    padding: 7px;
+    border: none;
+    background-color: #aaa;
+    border-radius: 6px;
+    margin-left: 220px;
+    cursor: pointer;
+}
+.addCommentbtn:hover{
+    background-color: aquamarine;
+}

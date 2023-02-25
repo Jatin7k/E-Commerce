@@ -1,0 +1,11 @@
+
+
+.ProfilecoverImg{
+    width: 93%;
+    height: 20vh;
+   
+    object-fit: cover;
+    margin-left: 30px;
+    border-radius: 10px;
+    
+}

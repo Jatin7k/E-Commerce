@@ -1,0 +1,38 @@
+
+
+.profilecontainer{
+    width: 20pc;
+    height: 60vh;
+    background-color: rgb(15, 2, 2);
+    margin-top: 20px;
+    border-radius: 15px;
+    
+
+}
+.Profilepagecover{
+    width: 320px;
+    height: 180px;
+    object-fit: cover;
+    overflow: hidden;
+    
+    
+}
+.friendImg{
+    width: 90px;
+    height: 90px;
+   object-fit: cover;
+    border-radius: 10px;
+}
+
+.ProfilepageImage{
+    width: 60px;
+    height: 70px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 10px;
+    
+}
+.editbtn:hover{
+background-color: rgb(101, 142, 179);
+color: purple;
+}
